@@ -1,1 +1,4 @@
-## Nesta aplicação foram usadas funções para animação, áudio e Math
+## Nesta aplicação foram usadas funções para:
+# Animação 
+# Áudio
+# Math
