@@ -1,6 +1,6 @@
 //seleciona todos os elementos necessários da DOM
 
-let numeroSorteado = document.querySelector('#dado');
+let numeroSorteado = 0;
 let imgDado = document.querySelector('#imgDado');
 let btnSortear = document.querySelector('#btnSortear');
 let sorteado = document.querySelector('#sorteado');
