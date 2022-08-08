@@ -1,4 +1,4 @@
-## Calculadora IMC feita com modelo MVC
+## Calculadora IMC feita com arquitetura MVC
 
 
 Cadastra os usuários que fizeram suas consultas em uma lista
